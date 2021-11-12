@@ -143,7 +143,7 @@ answers.
 DEFINED AS FACT – we cannot determine whether 
 or not forward-thinking statements we make, with 
 terms above and any other term similar, will ever be 
-fact. We make ZERO PROMISES, and all forwardthinking statements shall be categorized as optimism 
+fact. We make ZERO PROMISES, and all forward-thinking statements shall be categorized as optimism 
 as opposed to factual information. 
 
  This token, $XRPMaskz, will be redeemable 1:1 for a 
