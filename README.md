@@ -20,6 +20,7 @@ momentum early on and we aim to avoid that.
 Our LLC, is currently being formed and the paperwork has been 
 filed, to further legitimize our project and intent to the people 
 who choose to partake in this project. 
+
 [ROAD MAP]:
 1) Community Building
 Discord
@@ -39,6 +40,7 @@ period. This also ties into the second
 phase. Price: 55 XRP per XRPM. 2.5 
 XRPM per person.
  5,300 XRPM remaining after phase one.
+
 2) Litepaper, Whitelist, Website
 LITEPAPER release to social media.
 Team met to discuss code to assist in NFT 
@@ -60,6 +62,7 @@ evenly between the four sale periods.
 After these two phases, we are going to set aside 45 XRPM into a 
 wallet that is owned by the LLC, in order to pursue marketing 
 ventures for our project, leading into phases three and four.
+
 3) SALE PERIODS
 In an attempt to be community-driven, we 
 are setting four sale periods.
@@ -99,18 +102,22 @@ for this project, as well as to the LLC for future projects.
 Any budget leftover in collaboration, if not being used for 
 such will remain in that budget unless a better use of said 
 budget is provided. 
-3) Collaboration & Utility
+
+ 3) Collaboration & Utility
 During sale periods, we will be searching the XRPL and 
 Metaverse for opportunities.
 Collaboration will be decided by the community, but we 
 can only collab if a project agrees to do so with us. 
  
-4) Our Goals for the Future:
+
+ 4) Our Goals for the Future:
 A ‘Maskz Only’ Social Club: The Hidden Village – further 
 details TBA.
 QR Code Sticker Support, for the masks to appear in the 
 Metaverse.
-The overall inspiration here again is based on community. 
+
+ 
+ The overall inspiration here again is based on community. 
 We are going to do our best to encourage people to stick 
 around and hold on both good and bad days, should there 
 be an issue with us limiting the buy amounts (we are 
@@ -120,14 +127,16 @@ FINANCIAL ADVISORS; WE DO NOT GIVE
 FINANCIAL ADVICE. You must understand the risks 
 associated with cryptocurrencies before you start 
 investing!
-Common questions:
+
+ Common questions:
 “What is a whitepaper?” | “What are NFTs, really?” 
 If you find yourself asking these questions, you are 
 implored to research the topic further before investing. 
 Validators on social media are a great place to start, for 
 the beginner or those who aren’t sure where to find the 
 answers. 
-NOTE ON FORWARD-THINKING STATEMENTS:
+
+ NOTE ON FORWARD-THINKING STATEMENTS:
 • “Would,” “could,” “should,” “what-if,” 
 “expected to,” “aim,” “target,” “I believe...”
 • NO FORWARD-THINKING STATEMENT CAN BE 
@@ -136,7 +145,8 @@ or not forward-thinking statements we make, with
 terms above and any other term similar, will ever be 
 fact. We make ZERO PROMISES, and all forwardthinking statements shall be categorized as optimism 
 as opposed to factual information. 
-This token, $XRPMaskz, will be redeemable 1:1 for a 
+
+ This token, $XRPMaskz, will be redeemable 1:1 for a 
 randomized NFT that will vary in rarity and appearance. 
 Rarities, variations, qualities all to be announced. We have 
 discovered a code that’ll assist us in the process of 
