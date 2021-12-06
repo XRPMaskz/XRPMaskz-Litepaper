@@ -1,6 +1,16 @@
 # XRPMaskz-Litepaper
 Litepaper of our project. 
+
+Raikage - Nai Mila
+Hokage - Ethan Mortensen
+Kazekage - Reid Jarvis
+Tsuchikage - Nic Johnson
+Obito - Sean Kathrein
 _
+In the first page of the paper linked, you can see photos of each member of the team.
+_
+Our business address registered to our LLC is as follows: 1348 E 3300 S, Millcreek, UT 84106.
+
 _
 _
 _
