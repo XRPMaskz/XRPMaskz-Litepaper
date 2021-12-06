@@ -6,14 +6,12 @@ Hokage - Ethan Mortensen |
 Kazekage - Reid Jarvis |
 Tsuchikage - Nic Johnson |
 Obito - Sean Kathrein |
-_
+
 In the first page of the paper linked, you can see photos of each member of the team.
-_
+
 Our business address registered to our LLC is as follows: 1348 E 3300 S, Millcreek, UT 84106.
 
-_
-_
-_
+
 At XRPMasks, our goal is to create a project that is unique in all 
 aspects and without being vague this would mean: our 
 distribution, our whitelisting and airdropping effort and the 
